@@ -2,7 +2,7 @@
 
 A minimalist PWA to receive real-time push notifications for GitHub events like new followers and repository stars.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yceruto/octopulse)
 
 ## Overview
 
@@ -92,7 +92,7 @@ This project is designed for easy deployment to the Cloudflare network.
 
 You can deploy this application to your own Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yceruto/octopulse)
 
 ### Manual Deployment via CLI
 
